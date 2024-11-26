@@ -50,11 +50,6 @@ The project includes:
    - In GUI-enabled environments, the tracked video will display in a window.  
    - In GUI-less environments (e.g., Jupyter), use Matplotlib for visualization or save the output as a video file.  
 
-## File Descriptions  
-
-- `kalman_tracking.ipynb`: Jupyter Notebook containing the Python implementation of the Kalman filter-based object tracking system.  
-- `requirements.txt`: List of required Python packages for the project.  
-
 ## Implementation Details  
 
 ### 1. **Kalman Filter Setup**  
